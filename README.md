@@ -1,3 +1,3 @@
 #kirkloveland
 
-Portfolio website for Kirk Loveland.
+Kirk Loveland's portfolio website.
