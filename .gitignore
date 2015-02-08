@@ -1,3 +1,4 @@
-vendor
-!vendor/bootstrap/dist/bootstrap.min.css
+vendor/bootstrap/*
+vendor/jquery/*
+!vendor/bootstrap/dist/css/bootstrap.min.css
 !vendor/jquery/dist/jquery.min.css
