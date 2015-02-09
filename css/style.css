@@ -8,6 +8,6 @@
 #images {
   text-align:center;
 }
-#images > div {
+#gallery > div > div {
   border:1px solid #000;
 }
