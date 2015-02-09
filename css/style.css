@@ -11,3 +11,7 @@
 #gallery > div > div {
   border:1px solid #000;
 }
+
+#gallery img {
+  width:100%;
+}
